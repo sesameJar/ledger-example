@@ -1,0 +1,31 @@
+{
+  "version": 4,
+  "inputs": [
+    {
+      "address": "MNWVbJuNxq9FQNL1bWXx5sXiFRKjcFuuj9",
+      "previous_output": {
+        "address": "MNWVbJuNxq9FQNL1bWXx5sXiFRKjcFuuj9",
+        "hash": "4feaacd0169c5f62a704fd28779584b55b35a1ac41b96403262c3de09af4c6c8",
+        "script": "dup hash160 [ a0407b04a4e65c269e7254ba1ab84affbdad6eec ] equalverify checksig",
+        "index": 1
+      },
+      "script": "",
+      "sequence": 4294967295
+    }
+  ],
+  "outputs": [
+    {
+      "address": "MT7By3irp1nzTvha3zGe7t8h61HtUSzTAn",
+      "attachment": { "version": 1, "type": 0 },
+      "value": 100,
+      "script_type": "pubkeyhash"
+    },
+    {
+      "address": "MNWVbJuNxq9FQNL1bWXx5sXiFRKjcFuuj9",
+      "attachment": { "version": 1, "type": 0 },
+      "value": 198609900,
+      "script_type": "pubkeyhash"
+    }
+  ],
+  "lock_time": 0
+}

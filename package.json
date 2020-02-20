@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ledgerhq/hw-app-btc": "^5.6.1",
+    "@ledgerhq/hw-transport-webhid": "^5.7.0",
+    "@ledgerhq/hw-transport-webusb": "^5.6.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "metaversejs": "^0.3.89",
+    "mvs-blockchain": "^0.1.55",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0"
